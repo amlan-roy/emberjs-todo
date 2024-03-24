@@ -1,0 +1,16 @@
+.global-logo__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.global-logo__link {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #000;
+}
